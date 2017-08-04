@@ -1,9 +1,9 @@
 This is the project to rank some airlines based on twitts which are about those. This project is implemented by python and uses spark.
 
 #Dataset files can ben found at 
-http://www.sfu.ca/~alopes/732_project/dataset.zip
+http://www.sfu.ca/~alopes/732_project/dataset.zip <br/>
 #Report and results at
-http://www.sfu.ca/~vpalenge/index.html
+http://www.sfu.ca/~vpalenge
 
 #Instructions to run Daemon
 cd tweet_stream <br/>
